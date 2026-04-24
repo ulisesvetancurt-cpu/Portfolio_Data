@@ -1,2 +1,2 @@
 # Personal portfolio of data management
-In this repository are some of my activities, jobs and practices from my school, courses like cisco NetAcad or just for personal practice. In this repository I have Excel, PowerBI and Word documents. Some of them has code, so I will say 
+In this repository showcases a collection of my academy works, assignments and personal projects, including materials from courses such as Cisco NetAcad, as well as personal practice. It contains documents developed in Excel, PowerBI and Word. Some of these files includes code; in such cases, I specify which documents contains code and describe their functionality in a PDF file.
