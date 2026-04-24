@@ -1,2 +1,2 @@
-# Data-Analytics_1
-This is the first repository about the data analytics. In this repository I liked to share my job transforming and analazing the data of course "Data Analytics Essentials" from Cisco Networking Academy.
+# Presonal portfolio of data management
+In this repository are some of my activities, jobs and practices from my school, courses like cisco NetAcad or just for personal practice. In this repository I have Excel, PowerBI and Word documents. Some of them has code, so I will say 
