@@ -1,0 +1,1 @@
+# Gestión de Datos - This folder contains coursework and projects related to data management.
