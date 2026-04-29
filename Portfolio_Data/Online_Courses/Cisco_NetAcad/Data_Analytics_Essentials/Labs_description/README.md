@@ -1,0 +1,1 @@
+This folder contains PDF documents with detailed descriptions of the labs from the "Data Analytics Essentials" course by Cisco. These materials outline the objectives, instructions, and methodologies for each activity, providing context for the practical exercises completed throughout the course.
